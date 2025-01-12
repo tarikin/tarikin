@@ -29,6 +29,15 @@ Network engineer specializing in complex RouterOS implementations, infrastructur
 - **AI/LLM**: OpenAI GPT-o1, Anthropic Claude; Custom Prompting Frameworks
 - **Documentation**: Markdown, Technical Writing
 
+### 🚀 Featured Project: RouterOS 7 LLM-Safe Reference
+- **Repository**: [routeros-7-llm-safe-reference](https://github.com/tarikin/routeros-7-llm-safe-reference)
+- **Co-developed with ChatGPT o1-pro** to reduce hallucinations and provide robust RouterOS 7 scripting examples.
+- **Highlights**:
+  - Token-efficient code snippet curated from real-world MikroTik deployments.
+  - Advanced error handling, JSON/DSV usage, and minimal guesswork for LLM-based code generation.
+- **Goal**: Empower engineers to confidently integrate RouterOS scripting into their AI workflows, bridging the gap between MikroTik’s official docs and next-gen automation.
+
+
 ### 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/nikita-tarikin/)
 - [Professional Website](https://tarikin.com)
