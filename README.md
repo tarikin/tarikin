@@ -1,16 +1,25 @@
-## Hi there 👋
+# Nikita Tarikin
 
-<!--
-**tarikin/tarikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> MikroTik Network Infrastructure Architect & RouterOS Expert
 
-Here are some ideas to get you started:
+Network engineer specializing in complex RouterOS implementations, infrastructure design, and enterprise network architecture. Bringing over 8 years of hands-on experience in network deployment and optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Expertise
+- RouterOS 7 Infrastructure Design & Deployment
+- Enterprise Network Architecture
+- Network Security & Performance Optimization
+- Advanced RouterOS Scripting & Automation
+- High-Availability Network Solutions
+
+### 🏆 MikroTik Certifications
+- MTCSE (Security Engineer) | ID: 2205SE2862
+- MTCTCE (Traffic Control Engineer) | ID: 2205TCE2817
+- MTCRE (Routing Engineer) | ID: 2205RE2844
+- MTCNA (Network Associate) | ID: 2205NA2576
+
+### 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/nikita-tarikin/)
+- [Professional Website](https://tarikin.com)
+
+---
+📍 Based in Da Nang, Vietnam | Available for remote network engineering projects worldwide
