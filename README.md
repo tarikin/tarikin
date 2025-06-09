@@ -29,7 +29,7 @@ Network engineer specializing in complex RouterOS implementations, infrastructur
 ### 💻 Technical Stack
 - **Networking**: RouterOS 7, MikroTik Hardware
 - **Automation**: RouterOS Scripts
-- **AI/LLM**: OpenAI GPT-o1, Anthropic Claude; Custom Prompting Frameworks
+- **AI/LLM**: OpenAI GPT-o3, Anthropic Claude; Custom Prompting Frameworks
 - **Documentation**: Markdown, Technical Writing
 
 ### 🚀 Featured Project: RouterOS 7 LLM-Safe Reference
