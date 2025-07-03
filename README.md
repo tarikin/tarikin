@@ -41,6 +41,12 @@ Network engineer specializing in complex RouterOS implementations, infrastructur
 - **Goal**: Empower engineers to confidently integrate RouterOS scripting into their AI workflows, bridging the gap between MikroTik’s official docs and next-gen automation.
 
 
+### 🔐 Security & Verification
+- **GPG Key ID**: `11AE5088047027C4`
+- **Key Fingerprint**: `A829 222C ADA3 8E9B E140  EA9C 11AE 5088 0470 27C4`
+- **Hardware Security**: YubiKey-based (Ed25519/Cv25519)
+- **Public Key**: [Download GPG Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/A829222CADA38E9BE140EA9C11AE5088047027C4)
+
 ### 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/nikita-tarikin/)
 - [Professional Website](https://tarikin.com)
