@@ -42,6 +42,8 @@ Network engineer specializing in complex RouterOS implementations, infrastructur
 
 
 ### 🔐 Security & Verification
+
+#### GPG (Encryption, Signing & Authentication)
 - **GPG Key ID**: `11AE5088047027C4`
 - **Key Fingerprint**: `A829 222C ADA3 8E9B E140  EA9C 11AE 5088 0470 27C4`
 - **Hardware Security**: YubiKey-based (Ed25519/Cv25519)
