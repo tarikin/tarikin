@@ -47,9 +47,19 @@ Network engineer specializing in complex RouterOS implementations, infrastructur
 - **Hardware Security**: YubiKey-based (Ed25519/Cv25519)
 - **Public Key**: [Download GPG Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/A829222CADA38E9BE140EA9C11AE5088047027C4)
 
+#### SSH (Authentication)
+- **Algorithm**: Ed25519 (YubiKey-based)
+- **Fingerprint**: `SHA256:mPjNZyqr38lMwknjfYkuT7U0UP6+sl7YzfbHNInqrbY`
+- **Public Key** (authorized_keys format):
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILcHKqlDuQxD+OdfQ5ddF/o54vChHRaiDnGb7Yve7rHD nikita@tarikin.com
+```
+
 ### 🌐 Connect
+- **Email**: [nikita@tarikin.com](mailto:nikita@tarikin.com)
 - [LinkedIn](https://www.linkedin.com/in/nikita-tarikin/)
 - [Professional Website](https://tarikin.com)
+- [Instagram](https://instagram.com/tarikin)
 - [Facebook](https://facebook.com/tarikin)
 - [Telegram](https://t.me/tarikin)
 
