@@ -1,6 +1,6 @@
 # Nikita Tarikin
 
-> MikroTik Network Infrastructure Architect & AI-Enhanced Network Solutions Expert
+> MikroTik Network Infrastructure Architect & AI-Driven Network Solutions Expert
 
 Network engineer specializing in complex RouterOS implementations, infrastructure design, and enterprise network architecture. Leveraging advanced AI/LLM technologies to enhance network automation and documentation. Bringing over 8 years of hands-on experience in network deployment and optimization.
 
