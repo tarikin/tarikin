@@ -32,13 +32,13 @@ Network engineer specializing in complex RouterOS implementations, infrastructur
 - **AI/LLM**: OpenAI GPT-5, Anthropic Claude; Windsurf IDE; Warp; Custom Prompting Frameworks
 - **Documentation**: Markdown, Technical Writing
 
-### 🚀 Featured Project: RouterOS 7 LLM-Safe Reference
+### 🛡️ Featured: RouterOS 7.x Standard Library for AI
 - **Repository**: [routeros-7-llm-safe-reference](https://github.com/tarikin/routeros-7-llm-safe-reference)
-- **Co-developed with ChatGPT o1-pro** to reduce hallucinations and provide robust RouterOS 7 scripting examples.
-- **Highlights**:
-  - Token-efficient code snippet curated from real-world MikroTik deployments.
-  - Advanced error handling, JSON/DSV usage, and minimal guesswork for LLM-based code generation.
-- **Goal**: Empower engineers to confidently integrate RouterOS scripting into their AI workflows, bridging the gap between MikroTik’s official docs and next-gen automation.
+- **Concept**: A "Grounding Context" standard library designed to verify and constrain AI Agents (LLMs/RAG) for hallucination-free network automation.
+- **Why It Matters**:
+  - **Empirical Truth**: Every pattern is battle-tested on hardware to correct common AI misconceptions about MikroTik scripting.
+  - **Agent-Ready**: Optimized [.rsc](https://github.com/tarikin/routeros-7-llm-safe-reference/tree/main/references) context files for injection into System Prompts, RAG pipelines, and Claude Code/OpenAI Codex/Gemini Cli, Cursor/Windsurf/Antigravity/Copilot/Cline/Kiro/Kilo workflows.
+- **Mission**: Establishing the trust layer for **Agentic NetDevOps**, enabling engineers to build self-healing infrastructure with verified, predictable code.
 
 
 ### 🔐 Security & Verification
