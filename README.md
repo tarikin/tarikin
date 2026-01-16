@@ -22,7 +22,7 @@ Network engineer specializing in complex RouterOS implementations, infrastructur
 - MTCSE (Security Engineer) | ID: [2505SE5381](https://mikrotik.com/training/certificates/c455381c846524d344c8) | 98%
 - MTCTCE (Traffic Control Engineer) | ID: [2505TCE5382](https://mikrotik.com/training/certificates/c455382c7db30612e5c2) | 86%
 - MTCRE (Routing Engineer) | ID: [2505RE5380](https://mikrotik.com/training/certificates/c455380c9954bdd992ac) | 94%
-- MTCIPv6E (Routing Engineer) | ID: [2505IPv6E5386](https://mikrotik.com/training/certificates/c455386c64a79fe53af9) | 92%
+- MTCIPv6E (IPv6 Engineer) | ID: [2505IPv6E5386](https://mikrotik.com/training/certificates/c455386c64a79fe53af9) | 92%
 - MTCWE (Wireless Engineer) | ID: [2505WE5388](https://mikrotik.com/training/certificates/c455388cac6a5acc2963) | 92%
 - MTCUME (User Management Engineer) | ID: [2505UME5383](https://mikrotik.com/training/certificates/c455383c48d58564e450) | 94%
 
